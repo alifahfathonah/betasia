@@ -1,0 +1,24 @@
+package yang di install:
+  ✔ artisan view @done(20-11-02 06:48)
+  ✔ laravel ui auth @done(20-11-02 06:48)
+  ✔ laravel telescope:3.x @done(20-11-02 06:52)
+  ✔ http guzzle @done(20-11-02 06:58)
+  ☐ laravel spatie permission
+
+masalah:
+  ✔ masalah error karena telescope https://panjeh.medium.com/new-installation-of-laravel-telescope-fails-418afa2b8972 @done(20-11-02 06:55)
+
+
+setup:
+  ☐ mail service
+  ☐ gogole analytic
+  ☐ webmaster 
+    ☐ google
+    ☐ yandex
+    ☐ bing
+  ☐ site setup
+  ☐ email verification
+
+template:
+  ☐ homepage https://themefisher.com/products/education-template/
+  ☐ admin 
