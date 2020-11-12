@@ -20,16 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bcb11c0-e01d-4377-8486-11e2d9fc2a36" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task.todo" beforeDir="false" afterPath="$PROJECT_DIR$/task.todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/homepage/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/homepage/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/homepage/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/homepage/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/homepage/partials/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/homepage/partials/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/homepage/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/homepage/partials/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/homepage/partials/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/homepage/partials/navbar.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -196,7 +196,8 @@
       <workItem from="1604909837306" duration="175000" />
       <workItem from="1604910110383" duration="84000" />
       <workItem from="1604910221567" duration="4546000" />
-      <workItem from="1604917623021" duration="2426000" />
+      <workItem from="1604917623021" duration="2648000" />
+      <workItem from="1605135323416" duration="5835000" />
     </task>
     <servers />
   </component>
@@ -220,17 +221,21 @@
       <screen x="36" y="0" width="1884" height="1080" />
     </state>
     <state x="850" y="475" width="250" height="132" key="Laravel.ExtractPartialViewDialog/36.0.1884.1080/1920.0.1366.768@36.0.1884.1080" timestamp="1604918207443" />
-    <state x="474" y="176" key="SettingsEditor" timestamp="1604918577784">
+    <state x="474" y="176" key="SettingsEditor" timestamp="1605137620663">
       <screen x="36" y="0" width="1884" height="1080" />
     </state>
-    <state x="474" y="176" key="SettingsEditor/36.0.1884.1080/1920.0.1366.768@36.0.1884.1080" timestamp="1604918577784" />
+    <state x="474" y="176" key="SettingsEditor/36.0.1884.1080/1920.0.1366.768@36.0.1884.1080" timestamp="1605137620663" />
     <state x="682" y="149" width="592" height="783" key="find.popup" timestamp="1604915026793">
       <screen x="36" y="0" width="1884" height="1080" />
     </state>
     <state x="682" y="149" width="592" height="783" key="find.popup/36.0.1884.1080/1920.0.1366.768@36.0.1884.1080" timestamp="1604915026793" />
-    <state x="641" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1604918568006">
+    <state x="641" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1605139227311">
       <screen x="36" y="0" width="1884" height="1080" />
     </state>
-    <state x="641" y="239" width="672" height="678" key="search.everywhere.popup/36.0.1884.1080/1920.0.1366.768@36.0.1884.1080" timestamp="1604918568006" />
+    <state x="641" y="239" width="672" height="678" key="search.everywhere.popup/36.0.1884.1080/1920.0.1366.768@36.0.1884.1080" timestamp="1605139227311" />
+    <state x="703" y="440" width="544" height="202" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605135890372">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="703" y="440" width="544" height="202" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/36.0.1884.1080/1920.0.1366.768@36.0.1884.1080" timestamp="1605135890372" />
   </component>
 </project>
